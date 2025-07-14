@@ -61,6 +61,21 @@ e) _Category Analysis_: How do different product categories perform across regio
 📊 **Dashboard Preview**
 <img width="1380" height="670" alt="Call Centre Report Dashboard" src="https://github.com/user-attachments/assets/a70055b5-0159-4317-99ee-dbcad467b0e5" />
 
+🗂️**Files in the Repositary**
+
+  Dashboard Project: [Call-Centre-Excel-Dashboard-project.xlsx](https://github.com/user-attachments/files/21219960/Call-Centre-Excel-Dashboard-project.xlsx)
+
+🗂️**Credits**
+
+ - **Data Source:** [Chandoo’s (YouTube video) ](https://youtu.be/mYdM46FAQJY) 
+
+🗂️**Connect With Me**
+
+- **LinkedIn**: https://www.linkedin.com/in/kritika-mahajan-014contact
+- **GitHub**: https://github.com/kritika-data014
+
+Feel free to reach out with questions or feedback about the project!
+
 
 
 
